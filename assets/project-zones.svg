@@ -1,0 +1,81 @@
+<svg width="920" height="360" viewBox="0 0 920 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset=".55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#042f2e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="70" y1="180" x2="850" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22c55e"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 800 26px Inter, Arial, sans-serif; fill: #f8fafc; }
+      .label { font: 800 17px Inter, Arial, sans-serif; fill: #e0f2fe; }
+      .sub { font: 500 12px Inter, Arial, sans-serif; fill: #94a3b8; }
+      .mini { font: 700 10px Inter, Arial, sans-serif; fill: #67e8f9; letter-spacing: .10em; }
+      .card { fill: #0f172a; stroke: #1e293b; }
+      @keyframes dash { to { stroke-dashoffset: -80; } }
+      .flow { stroke-dasharray: 10 10; animation: dash 3s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="920" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="884" height="324" rx="14" stroke="#1e293b"/>
+  <text x="48" y="60" class="mini">PROJECT SIGNAL MAP</text>
+  <text x="48" y="94" class="title">Systems I Build</text>
+  <text x="48" y="119" class="sub">From business events and integrations to APIs, data models, dashboards and admin workflows.</text>
+
+  <path class="flow" d="M142 188 C250 96 348 272 456 180 C564 88 664 264 778 172" stroke="url(#line)" stroke-width="4" fill="none" filter="url(#glow)"/>
+
+  <g transform="translate(54 156)">
+    <rect class="card" width="172" height="112" rx="12"/>
+    <text x="18" y="34" class="label">Integrations</text>
+    <text x="18" y="59" class="sub">Telegram bots</text>
+    <text x="18" y="78" class="sub">Google Sheets sync</text>
+    <text x="18" y="97" class="sub">External APIs</text>
+  </g>
+
+  <g transform="translate(270 84)">
+    <rect class="card" width="172" height="112" rx="12"/>
+    <text x="18" y="34" class="label">Backend Core</text>
+    <text x="18" y="59" class="sub">Django / FastAPI</text>
+    <text x="18" y="78" class="sub">Auth / permissions</text>
+    <text x="18" y="97" class="sub">Service layer</text>
+  </g>
+
+  <g transform="translate(486 156)">
+    <rect class="card" width="172" height="112" rx="12"/>
+    <text x="18" y="34" class="label">Data Layer</text>
+    <text x="18" y="59" class="sub">PostgreSQL</text>
+    <text x="18" y="78" class="sub">Attribution</text>
+    <text x="18" y="97" class="sub">Aggregates / Redis</text>
+  </g>
+
+  <g transform="translate(702 84)">
+    <rect class="card" width="172" height="112" rx="12"/>
+    <text x="18" y="34" class="label">Product UI</text>
+    <text x="18" y="59" class="sub">React dashboards</text>
+    <text x="18" y="78" class="sub">CRM / admin panels</text>
+    <text x="18" y="97" class="sub">Reports / Kanban</text>
+  </g>
+
+  <g transform="translate(54 292)">
+    <circle cx="7" cy="7" r="7" fill="#22c55e"/>
+    <text x="24" y="11" class="sub">Business workflow first</text>
+    <circle cx="210" cy="7" r="7" fill="#38bdf8"/>
+    <text x="227" y="11" class="sub">Backend boundaries</text>
+    <circle cx="390" cy="7" r="7" fill="#6366f1"/>
+    <text x="407" y="11" class="sub">Data visibility</text>
+    <circle cx="550" cy="7" r="7" fill="#14b8a6"/>
+    <text x="567" y="11" class="sub">Automation</text>
+  </g>
+</svg>
