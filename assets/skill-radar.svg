@@ -1,0 +1,82 @@
+<svg width="920" height="520" viewBox="0 0 920 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#052e2b"/>
+    </linearGradient>
+    <linearGradient id="radar" x1="287" y1="104" x2="633" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0.74"/>
+      <stop offset="0.55" stop-color="#22c55e" stop-opacity="0.56"/>
+      <stop offset="1" stop-color="#a3e635" stop-opacity="0.44"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .label { font: 700 16px Inter, Arial, sans-serif; fill: #e5e7eb; }
+      .sub { font: 500 12px Inter, Arial, sans-serif; fill: #94a3b8; }
+      .small { font: 700 11px Inter, Arial, sans-serif; fill: #67e8f9; letter-spacing: .08em; }
+      .grid { stroke: #334155; stroke-width: 1.2; }
+      .axis { stroke: #475569; stroke-width: 1; stroke-dasharray: 5 7; }
+      @keyframes pulse { 0%,100% { opacity: .65; } 50% { opacity: 1; } }
+      @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      .scan { transform-origin: 460px 260px; animation: rotate 8s linear infinite; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="920" height="520" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="884" height="484" rx="14" stroke="#1e293b"/>
+
+  <text x="48" y="58" class="small">PLAYER PROFILE / ENGINEERING RADAR</text>
+  <text x="48" y="92" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#f8fafc">Evgeny Alesich</text>
+  <text x="48" y="119" class="sub">Backend-heavy fullstack developer: APIs, analytics, automation, product dashboards.</text>
+
+  <g transform="translate(460 260)">
+    <polygon class="grid" points="0,-160 138,-80 138,80 0,160 -138,80 -138,-80"/>
+    <polygon class="grid" points="0,-120 104,-60 104,60 0,120 -104,60 -104,-60"/>
+    <polygon class="grid" points="0,-80 69,-40 69,40 0,80 -69,40 -69,-40"/>
+    <polygon class="grid" points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20"/>
+
+    <line class="axis" x1="0" y1="0" x2="0" y2="-174"/>
+    <line class="axis" x1="0" y1="0" x2="151" y2="-87"/>
+    <line class="axis" x1="0" y1="0" x2="151" y2="87"/>
+    <line class="axis" x1="0" y1="0" x2="0" y2="174"/>
+    <line class="axis" x1="0" y1="0" x2="-151" y2="87"/>
+    <line class="axis" x1="0" y1="0" x2="-151" y2="-87"/>
+
+    <polygon class="pulse" points="0,-148 125,-72 92,53 0,118 -118,68 -130,-75" fill="url(#radar)" stroke="#67e8f9" stroke-width="2.5" filter="url(#glow)"/>
+    <circle r="4" fill="#e0f2fe"/>
+    <path class="scan" d="M0 0 L0 -158 A158 158 0 0 1 137 -79 Z" fill="#38bdf8" opacity=".08"/>
+  </g>
+
+  <text x="428" y="58" class="label">Backend APIs</text>
+  <text x="615" y="154" class="label">Data / SQL</text>
+  <text x="617" y="383" class="label">Frontend UI</text>
+  <text x="417" y="474" class="label">DevOps</text>
+  <text x="169" y="383" class="label">Automation</text>
+  <text x="145" y="154" class="label">Product Thinking</text>
+
+  <g transform="translate(48 158)">
+    <rect width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="24" class="sub">Django / DRF / FastAPI</text>
+    <rect y="52" width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="76" class="sub">PostgreSQL / Redis</text>
+    <rect y="104" width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="128" class="sub">Telegram / workers</text>
+  </g>
+
+  <g transform="translate(694 158)">
+    <rect width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="24" class="sub">React / TypeScript</text>
+    <rect y="52" width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="76" class="sub">Dashboards / CRM</text>
+    <rect y="104" width="178" height="38" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="16" y="128" class="sub">Analytics platforms</text>
+  </g>
+</svg>
