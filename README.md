@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Evgeny%20Alesich&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=Backend%20%2F%20Fullstack%20Developer%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20FastAPI%20%C2%B7%20Analytics&descSize=16&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f766e,70:2563eb,100:111827&text=Evgeny%20Alesich&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Backend%20%2F%20Fullstack%20Developer%20%C2%B7%20Python%20Systems%20%C2%B7%20Analytics%20Platforms&descSize=16&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=860&lines=I+build+backend+systems%2C+dashboards+and+automation;Django+%2B+FastAPI+%2B+PostgreSQL+%2B+Redis;Product-minded+engineering+for+real+business+flows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+systems+%E2%86%92+dashboards+%E2%86%92+automation;Django+%2F+FastAPI+%2F+PostgreSQL+%2F+Redis;Product-minded+engineering+for+business+workflows)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=evgenyalesich&style=for-the-badge&color=0ea5e9)
 
 </div>
 
@@ -11,6 +13,12 @@
 Python developer focused on backend systems, internal platforms, dashboards and automation. I work mostly with Django, FastAPI, PostgreSQL, Redis, Telegram integrations, analytics pipelines and fullstack product interfaces.
 
 I like projects where code is connected to a clear business process: orders, leads, funnels, meetings, CRM panels, reports, sync jobs, bots and admin tools.
+
+<div align="center">
+
+`Backend APIs` · `Data pipelines` · `Dashboards` · `Telegram automation` · `CRM / admin panels` · `Product tooling`
+
+</div>
 
 ## Skill Radar
 
@@ -30,6 +38,32 @@ I like projects where code is connected to a clear business process: orders, lea
 | Automation | Telegram bots, Google Sheets sync, meeting processors | Telegram API, webhooks, workers |
 | Delivery | Dockerized local setups, docs, tests | Docker, pytest, GitHub |
 
+## What I Ship
+
+```mermaid
+mindmap
+  root((Engineering))
+    Backend
+      Django / DRF
+      FastAPI
+      JWT / permissions
+      Service layer
+    Data
+      PostgreSQL
+      Attribution
+      Funnels
+      Aggregates
+    Product
+      Dashboards
+      CRM
+      Kanban
+      Admin panels
+    Automation
+      Telegram bots
+      Google Sheets sync
+      Background workers
+```
+
 ## Highlight Projects
 
 | Project | Why it matters | Tech |
@@ -40,6 +74,23 @@ I like projects where code is connected to a clear business process: orders, lea
 | [ai-classify-project](https://github.com/evgenyalesich/ai-classify-project) | Text classification API with React interface and Swagger endpoint | FastAPI, React |
 | [pokerhub-platform](https://github.com/evgenyalesich/pokerhub-platform) | PokerHub backend platform evolution | Python |
 | [bottg](https://github.com/evgenyalesich/bottg) | Telegram bot experiments and automation base | Python |
+
+<div align="center">
+
+<a href="https://github.com/evgenyalesich/skvozhnaya-analitika">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=skvozhnaya-analitika&theme=tokyonight&hide_border=true" alt="skvozhnaya-analitika" />
+</a>
+<a href="https://github.com/evgenyalesich/project-manager">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=project-manager&theme=tokyonight&hide_border=true" alt="project-manager" />
+</a>
+<a href="https://github.com/evgenyalesich/goldsort-shop-final">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=goldsort-shop-final&theme=tokyonight&hide_border=true" alt="goldsort-shop-final" />
+</a>
+<a href="https://github.com/evgenyalesich/ai-classify-project">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=ai-classify-project&theme=tokyonight&hide_border=true" alt="ai-classify-project" />
+</a>
+
+</div>
 
 ## System Map
 
@@ -77,6 +128,10 @@ flowchart LR
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=evgenyalesich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+
+<br />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=evgenyalesich&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenyalesich&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
@@ -84,19 +139,21 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=evgenyalesich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evgenyalesich&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
 </div>
 
-## Repository Cleanup Plan
+## Engineering Style
 
-| Priority | Repo | Action |
-|---|---|---|
-| High | `magic-app1` | Add a real README and rename if this is a serious project |
-| High | `bottg` | Add README, usage and tech stack |
-| High | `project-manager` | Polish formatting, add screenshots, add clear install commands |
-| High | `ai-classify-project` | Replace test-task style README with product-style description |
-| Medium | `finance-navigator`, `idea-bloom-frontend` | Replace default Lovable README with actual project docs |
-| Medium | `pokerhub-*`, `meetings-*` | Keep private if they contain business data; expose only a sanitized overview in profile |
-| Low | empty `meetings-*` repos | Archive or hide if they are not useful as public signal |
+| Principle | How I apply it |
+|---|---|
+| Business-first architecture | I model real workflows before writing endpoints |
+| Clean backend boundaries | Service layer, repositories, schemas, permissions |
+| Data visibility | Dashboards, reports, funnels and admin screens |
+| Practical automation | Workers and integrations that remove repeated manual work |
+| Maintainability | Clear setup, focused tests, explicit configuration |
 
 ## Contact
 
