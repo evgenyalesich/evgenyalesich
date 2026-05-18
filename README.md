@@ -28,7 +28,7 @@ I like projects where code is connected to a clear business process: orders, lea
 
 </div>
 
-## Current Focus
+## Work Zones
 
 | Area | What I build | Stack |
 |---|---|---|
@@ -38,42 +38,20 @@ I like projects where code is connected to a clear business process: orders, lea
 | Automation | Telegram bots, Google Sheets sync, meeting processors | Telegram API, webhooks, workers |
 | Delivery | Dockerized local setups, docs, tests | Docker, pytest, GitHub |
 
-## What I Ship
-
-```mermaid
-mindmap
-  root((Engineering))
-    Backend
-      Django / DRF
-      FastAPI
-      JWT / permissions
-      Service layer
-    Data
-      PostgreSQL
-      Attribution
-      Funnels
-      Aggregates
-    Product
-      Dashboards
-      CRM
-      Kanban
-      Admin panels
-    Automation
-      Telegram bots
-      Google Sheets sync
-      Background workers
-```
-
 ## Highlight Projects
 
-| Project | Why it matters | Tech |
+<div align="center">
+
+![Project zones](assets/project-zones.svg)
+
+</div>
+
+| Project | Signal | Tech |
 |---|---|---|
-| [skvozhnaya-analitika](https://github.com/evgenyalesich/skvozhnaya-analitika) | End-to-end marketing analytics for Telegram bots and PokerHub: funnels, attribution, reporting, sync workers | FastAPI, React, PostgreSQL, Redis |
-| [project-manager](https://github.com/evgenyalesich/project-manager) | Fullstack project management system with Kanban, roles, comments and real-time updates | Django, DRF, Channels, React, TypeScript |
-| [goldsort-shop-final](https://github.com/evgenyalesich/goldsort-shop-final) | Jewelry e-commerce platform with catalog, cart, orders, payments, CRM dashboard and parser | Django, PostgreSQL, BePaid, Playwright |
-| [ai-classify-project](https://github.com/evgenyalesich/ai-classify-project) | Text classification API with React interface and Swagger endpoint | FastAPI, React |
-| [pokerhub-platform](https://github.com/evgenyalesich/pokerhub-platform) | PokerHub backend platform evolution | Python |
-| [bottg](https://github.com/evgenyalesich/bottg) | Telegram bot experiments and automation base | Python |
+| [skvozhnaya-analitika](https://github.com/evgenyalesich/skvozhnaya-analitika) | End-to-end analytics: Telegram bots, funnels, attribution, reporting, sync workers | FastAPI, React, PostgreSQL, Redis |
+| [project-manager](https://github.com/evgenyalesich/project-manager) | Fullstack management app: Kanban, roles, comments, real-time updates | Django, DRF, Channels, React, TypeScript |
+| [goldsort-shop-final](https://github.com/evgenyalesich/goldsort-shop-final) | E-commerce platform: catalog, cart, orders, payments, CRM dashboard, parser | Django, PostgreSQL, BePaid, Playwright |
+| [ai-classify-project](https://github.com/evgenyalesich/ai-classify-project) | Text classification API with structured extraction and React UI | FastAPI, React |
 
 <div align="center">
 
@@ -91,23 +69,6 @@ mindmap
 </a>
 
 </div>
-
-## System Map
-
-```mermaid
-flowchart LR
-    TG[Telegram bots] --> ING[Ingestion workers]
-    GS[Google Sheets] --> ING
-    API3[External APIs] --> ING
-    ING --> DB[(PostgreSQL)]
-    DB --> ATTR[Attribution & aggregates]
-    ATTR --> CACHE[(Redis)]
-    CACHE --> API[FastAPI / Django API]
-    API --> UI[React dashboards]
-    API --> ADMIN[Admin panels]
-    UI --> USERS[Business users]
-    ADMIN --> OPS[Operations]
-```
 
 ## Stack
 
@@ -129,11 +90,6 @@ flowchart LR
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=evgenyalesich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
-
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=evgenyalesich&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenyalesich&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
