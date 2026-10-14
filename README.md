@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Evgeny Alesich — engineering command center" />
+<img src="./assets/hero-command-center.svg" width="100%" alt="Evgeny Alesich — engineering command center" />
 
 <a href="https://t.me/cpython99"><img src="https://img.shields.io/badge/TELEGRAM-@cpython99-06121F?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" /></a>
 <a href="https://www.linkedin.com/in/yauheni-alesich-5937a7262/"><img src="https://img.shields.io/badge/LINKEDIN-EVGENY_ALESICH-06121F?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
