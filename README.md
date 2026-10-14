@@ -4,7 +4,7 @@
 
 <br />
 
-[![Telegram](https://img.shields.io/badge/Telegram-@evgene__one6628-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE)](https://t.me/evgene_one6628)
+[![Telegram](https://img.shields.io/badge/Telegram-@cpython99-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE)](https://t.me/cpython99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evgeny_Alesich-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/yauheni-alesich-5937a7262/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-111827?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:quasimodo20042001@gmail.com)
 
