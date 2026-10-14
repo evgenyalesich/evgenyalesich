@@ -12,7 +12,7 @@
 
 </div>
 
-## `// WHO_AM_I`
+<h2 align="center"><code>// WHO_AM_I</code></h2>
 
 I'm **Evgeny Alesich**, a product-minded backend engineer from Minsk. I build systems where the hard part is not a single endpoint — it is making people, permissions, data, jobs, integrations and interfaces behave like one reliable product.
 
@@ -30,7 +30,7 @@ operating_mode: "own the outcome, not just the ticket"
   <img src="./assets/command-center.svg" width="100%" alt="Engineering command center" />
 </div>
 
-## `// TECH_ORBIT`
+<h2 align="center"><code>// TECH_ORBIT</code></h2>
 
 <div align="center">
   <img src="./assets/tech-orbit.svg" width="100%" alt="Animated technology orbit" />
@@ -51,7 +51,7 @@ operating_mode: "own the outcome, not just the ticket"
 
 </div>
 
-## `// SYSTEMS_SHIPPED`
+<h2 align="center"><code>// SYSTEMS_SHIPPED</code></h2>
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ Bots, schedulers, parsers, notifications and synchronization workers that connec
 </tr>
 </table>
 
-## `// ENGINEERING_PROTOCOL`
+<h2 align="center"><code>// ENGINEERING_PROTOCOL</code></h2>
 
 ```text
 01  MAP THE REAL WORKFLOW     → understand actors, state and failure modes
@@ -108,24 +108,20 @@ Bots, schedulers, parsers, notifications and synchronization workers that connec
 
 > **My rule:** architecture is valuable only when it makes the product easier to change, operate and trust.
 
-## `// LIVE_GITHUB_SIGNAL`
+<h2 align="center"><code>// LIVE_GITHUB_SIGNAL</code></h2>
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=evgenyalesich&show_icons=true&hide_border=true&bg_color=06121F&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=evgenyalesich&hide_border=true&background=06121F&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=evgenyalesich&show_icons=true&hide_border=true&bg_color=06121F&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=evgenyalesich&hide_border=true&background=06121F&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=evgenyalesich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="./assets/signal-board.svg" width="100%" alt="Animated engineering signal board" />
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/evgenyalesich/evgenyalesich/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-<br/>
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=evgenyalesich&bg_color=06121F&color=94A3B8&line=22D3EE&point=818CF8&area=true&hide_border=true&custom_title=EVGENY%20%2F%2F%20CONTRIBUTION%20STREAM)
 
 </div>
 
