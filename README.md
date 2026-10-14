@@ -1,121 +1,135 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f766e,70:2563eb,100:111827&text=Evgeny%20Alesich&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Backend%20%2F%20Fullstack%20Developer%20%C2%B7%20Python%20Systems%20%C2%B7%20Analytics%20Platforms&descSize=16&descAlignY=58)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+systems+%E2%86%92+dashboards+%E2%86%92+automation;Django+%2F+FastAPI+%2F+PostgreSQL+%2F+Redis;Product-minded+engineering+for+business+workflows)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=evgenyalesich&style=for-the-badge&color=0ea5e9)
-
-</div>
-
-## About
-
-Python developer focused on backend systems, internal platforms, dashboards and automation. I work mostly with Django, FastAPI, PostgreSQL, Redis, Telegram integrations, analytics pipelines and fullstack product interfaces.
-
-I like projects where code is connected to a clear business process: orders, leads, funnels, meetings, CRM panels, reports, sync jobs, bots and admin tools.
-
-<div align="center">
-
-`Backend APIs` · `Data pipelines` · `Dashboards` · `Telegram automation` · `CRM / admin panels` · `Product tooling`
-
-</div>
-
-## Skill Radar
-
-<div align="center">
-
-![Skill radar](assets/skill-radar.svg)
-
-</div>
-
-## Work Zones
-
-| Area | What I build | Stack |
-|---|---|---|
-| Backend APIs | service layers, auth, admin APIs, background jobs | Python, Django, DRF, FastAPI |
-| Data & analytics | funnels, attribution, sync workers, dashboards | PostgreSQL, SQLAlchemy, Redis, RQ |
-| Product tools | CRM, kanban, reports, internal panels | React, TypeScript, MUI, Tailwind |
-| Automation | Telegram bots, Google Sheets sync, meeting processors | Telegram API, webhooks, workers |
-| Delivery | Dockerized local setups, docs, tests | Docker, pytest, GitHub |
-
-## Highlight Projects
-
-<div align="center">
-
-![Project zones](assets/project-zones.svg)
-
-</div>
-
-| Project | Signal | Tech |
-|---|---|---|
-| [skvozhnaya-analitika](https://github.com/evgenyalesich/skvozhnaya-analitika) | End-to-end analytics: Telegram bots, funnels, attribution, reporting, sync workers | FastAPI, React, PostgreSQL, Redis |
-| [project-manager](https://github.com/evgenyalesich/project-manager) | Fullstack management app: Kanban, roles, comments, real-time updates | Django, DRF, Channels, React, TypeScript |
-| [goldsort-shop-final](https://github.com/evgenyalesich/goldsort-shop-final) | E-commerce platform: catalog, cart, orders, payments, CRM dashboard, parser | Django, PostgreSQL, BePaid, Playwright |
-| [ai-classify-project](https://github.com/evgenyalesich/ai-classify-project) | Text classification API with structured extraction and React UI | FastAPI, React |
-
-<div align="center">
-
-<a href="https://github.com/evgenyalesich/skvozhnaya-analitika">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=skvozhnaya-analitika&theme=tokyonight&hide_border=true" alt="skvozhnaya-analitika" />
-</a>
-<a href="https://github.com/evgenyalesich/project-manager">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=project-manager&theme=tokyonight&hide_border=true" alt="project-manager" />
-</a>
-<a href="https://github.com/evgenyalesich/goldsort-shop-final">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=goldsort-shop-final&theme=tokyonight&hide_border=true" alt="goldsort-shop-final" />
-</a>
-<a href="https://github.com/evgenyalesich/ai-classify-project">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=evgenyalesich&repo=ai-classify-project&theme=tokyonight&hide_border=true" alt="ai-classify-project" />
-</a>
-
-</div>
-
-## Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FDE047)
-![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=22c55e)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=2dd4bf)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=f87171)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60a5fa)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=evgenyalesich&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+<img src="./assets/hero.svg" width="100%" alt="Evgeny Alesich — Product Backend Engineer" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=evgenyalesich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evgenyalesich&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+[![Telegram](https://img.shields.io/badge/Telegram-@evgene__one6628-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE)](https://t.me/evgene_one6628)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evgeny_Alesich-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/yauheni-alesich-5937a7262/)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-111827?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:quasimodo20042001@gmail.com)
 
 </div>
 
-## Engineering Style
+## `01 / PROFILE`
 
-| Principle | How I apply it |
-|---|---|
-| Business-first architecture | I model real workflows before writing endpoints |
-| Clean backend boundaries | Service layer, repositories, schemas, permissions |
-| Data visibility | Dashboards, reports, funnels and admin screens |
-| Practical automation | Workers and integrations that remove repeated manual work |
-| Maintainability | Clear setup, focused tests, explicit configuration |
+I engineer **backend-heavy products** where business workflows, data and automation meet.
+My usual territory is a system with many moving parts: APIs, roles and permissions, event-driven jobs,
+analytics pipelines, Telegram interfaces, operational dashboards and the infrastructure holding it together.
 
-## Contact
+```python
+engineer = {
+    "focus":     ["product backends", "data platforms", "automation"],
+    "backend":   ["Python", "Django", "FastAPI", "PostgreSQL", "Redis"],
+    "frontend":  ["React", "TypeScript", "MUI", "Tailwind"],
+    "delivery":  ["Docker", "GitHub Actions", "Linux", "pytest"],
+    "principle": "turn complex operations into clear, reliable software",
+}
+```
+
+<div align="center">
+  <img src="./assets/system-map.svg" width="100%" alt="System architecture map" />
+</div>
+
+## `02 / ENGINEERING STACK`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-evgenyalesich-111827?style=for-the-badge&logo=github)](https://github.com/evgenyalesich)
-[![Email](https://img.shields.io/badge/Email-quasimodo20042001%40gmail.com-0f172a?style=for-the-badge&logo=gmail)](mailto:quasimodo20042001@gmail.com)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=FACC15)
+![Django](https://img.shields.io/badge/Django-0B1220?style=for-the-badge&logo=django&logoColor=4ADE80)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Redis](https://img.shields.io/badge/Redis-0B1220?style=for-the-badge&logo=redis&logoColor=F87171)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=38BDF8)
+
+</div>
+
+| Layer | Tools I reach for | What I optimize for |
+|:--|:--|:--|
+| **Backend** | Python · Django · DRF · FastAPI | clean boundaries, predictable APIs, secure access |
+| **Data** | PostgreSQL · Redis · SQLAlchemy | traceable data, fast reads, reliable synchronization |
+| **Product UI** | React · TypeScript · MUI · Tailwind | dense workflows that still feel simple |
+| **Automation** | Telegram API · webhooks · workers · integrations | fewer manual steps, observable execution |
+| **Delivery** | Docker · Linux · pytest · GitHub Actions | repeatable environments and confident releases |
+
+## `03 / SYSTEMS I BUILD`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♠ Learning & operations platforms
+
+Multi-role products with onboarding journeys, task engines, progress tracking, content delivery and AI-assisted analysis. Backend services, CRM tooling, Telegram bot and Mini App work as one system.
+
+`FastAPI` `PostgreSQL` `Redis` `Telegram` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Analytics & attribution
+
+End-to-end pipelines that collect business events, reconcile sources and turn raw activity into funnels, reports and operational dashboards people can actually use.
+
+`Python` `SQL` `React` `Data pipelines` `Dashboards`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ CRM & internal tooling
+
+Role-aware workspaces for leads, tasks, comments, kanban flows, reporting and real-time collaboration — shaped around the process instead of a generic admin template.
+
+`Django` `DRF` `Channels` `React` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Workflow automation
+
+Bots, schedulers, parsers, notification services and synchronization workers that connect teams and systems while keeping failures visible and recoverable.
+
+`Workers` `Webhooks` `External APIs` `Monitoring` `Linux`
+
+</td>
+</tr>
+</table>
+
+## `04 / HOW I ENGINEER`
+
+```text
+DISCOVER        MODEL           BUILD           OBSERVE          IMPROVE
+business flow → domain rules  → small slices  → real signals  → measured iteration
+```
+
+- **Business-first architecture** — understand the workflow before designing endpoints.
+- **Boring reliability** — explicit state, idempotent jobs, useful logs and recoverable failures.
+- **Product ownership** — backend, UI and delivery are parts of one user outcome.
+- **Data visibility** — if a process matters, its state and performance should be visible.
+- **Pragmatic design** — enough structure to scale, without architecture for architecture's sake.
+
+## `05 / GITHUB SIGNAL`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=evgenyalesich&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenyalesich&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Top languages" />
+
+<br />
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=evgenyalesich&bg_color=0B1220&color=94A3B8&line=22D3EE&point=818CF8&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems that make complicated work feel obvious.
+
+`OPEN TO STRONG PRODUCTS · HARD PROBLEMS · USEFUL AUTOMATION`
 
 </div>
